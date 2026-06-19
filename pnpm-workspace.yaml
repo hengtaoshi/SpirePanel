@@ -218,3 +218,7 @@ allowBuilds:
   esbuild: true
   lefthook: true
   vue-demi: true
+
+proxy: http://127.0.0.1:7897
+
+httpsProxy: http://127.0.0.1:7897
