@@ -1,0 +1,15 @@
+# SpirePanel Supabase 本地配置
+# 参考: https://supabase.com/docs/reference/cli/config
+
+[AUTH]
+enabled = true
+
+[DB]
+port = 54322
+
+[API]
+port = 54321
+
+[EDGE_FUNCTIONS]
+enabled = true
+include = ["functions/*"]

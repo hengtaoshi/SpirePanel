@@ -1,0 +1,73 @@
+{
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "codeLogin": "验证码登录",
+    "qrcodeLogin": "二维码登录",
+    "forgetPassword": "忘记密码",
+    "profile": "个人中心"
+  },
+  "dashboard": {
+    "title": "概览",
+    "analytics": "分析页",
+    "workspace": "工作台"
+  },
+  "spire": {
+    "appName": "SpirePanel",
+    "proFeatureTitle": "Pro 功能",
+    "proFeatureDesc": "该功能仅在 Pro 版中可用，升级后即可解锁",
+    "upgradeBtn": "升级到 Pro 版",
+    "proOnly": "Pro 专享"
+  },
+  "tenants": {
+    "title": "租户管理",
+    "list": "租户列表",
+    "create": "新增租户",
+    "edit": "编辑租户",
+    "name": "租户名称",
+    "slug": "租户标识",
+    "contactEmail": "联系邮箱",
+    "contactName": "联系人",
+    "status": "状态",
+    "planType": "套餐类型",
+    "maxUsers": "最大用户数",
+    "createdAt": "创建时间",
+    "active": "启用",
+    "inactive": "停用",
+    "confirmDisable": "确认停用该租户？",
+    "copySuccess": "已复制"
+  },
+  "orders": {
+    "title": "订单管理",
+    "list": "订单列表",
+    "detail": "订单详情",
+    "orderNo": "订单编号",
+    "amount": "金额",
+    "status": "状态",
+    "paymentMethod": "支付方式",
+    "paidAt": "支付时间",
+    "pending": "待支付",
+    "paid": "已支付",
+    "failed": "支付失败",
+    "refunded": "已退款",
+    "expired": "已过期",
+    "createOrder": "创建订单",
+    "totalRevenue": "总收入"
+  },
+  "settings": {
+    "title": "系统设置",
+    "general": "通用设置",
+    "tenant": "租户设置",
+    "billing": "计费设置",
+    "notification": "通知设置",
+    "saveSuccess": "保存成功"
+  },
+  "tickets": {
+    "title": "工单系统",
+    "list": "工单列表"
+  },
+  "monitor": {
+    "title": "用量监控",
+    "overview": "监控概览"
+  }
+}

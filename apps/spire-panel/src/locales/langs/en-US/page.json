@@ -1,0 +1,73 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "codeLogin": "Code Login",
+    "qrcodeLogin": "Qr Code Login",
+    "forgetPassword": "Forget Password",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "analytics": "Analytics",
+    "workspace": "Workspace"
+  },
+  "spire": {
+    "appName": "SpirePanel",
+    "proFeatureTitle": "Pro Feature",
+    "proFeatureDesc": "This feature is only available in the Pro version. Upgrade to unlock.",
+    "upgradeBtn": "Upgrade to Pro",
+    "proOnly": "Pro Only"
+  },
+  "tenants": {
+    "title": "Tenants",
+    "list": "Tenant List",
+    "create": "Create Tenant",
+    "edit": "Edit Tenant",
+    "name": "Tenant Name",
+    "slug": "Tenant Slug",
+    "contactEmail": "Contact Email",
+    "contactName": "Contact Name",
+    "status": "Status",
+    "planType": "Plan",
+    "maxUsers": "Max Users",
+    "createdAt": "Created At",
+    "active": "Active",
+    "inactive": "Inactive",
+    "confirmDisable": "Disable this tenant?",
+    "copySuccess": "Copied"
+  },
+  "orders": {
+    "title": "Orders",
+    "list": "Order List",
+    "detail": "Order Detail",
+    "orderNo": "Order No.",
+    "amount": "Amount",
+    "status": "Status",
+    "paymentMethod": "Payment Method",
+    "paidAt": "Paid At",
+    "pending": "Pending",
+    "paid": "Paid",
+    "failed": "Failed",
+    "refunded": "Refunded",
+    "expired": "Expired",
+    "createOrder": "Create Order",
+    "totalRevenue": "Total Revenue"
+  },
+  "settings": {
+    "title": "Settings",
+    "general": "General",
+    "tenant": "Tenant Settings",
+    "billing": "Billing",
+    "notification": "Notifications",
+    "saveSuccess": "Saved"
+  },
+  "tickets": {
+    "title": "Tickets",
+    "list": "Ticket List"
+  },
+  "monitor": {
+    "title": "Monitor",
+    "overview": "Overview"
+  }
+}
